@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python | Ciência da Computação`**
 
-Meu nome é Laercio de Andrade Santos Junior, tenho 17 anos. Atualmente, estou cursando Ciência da Computação na UNIFACS. Tenho conhecimentos em Python, Java e Programação Orientada a Objetos (POO) em geral, e atualmente estou ampliando meus conhecimentos com HTML. Busco sempre aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de aplicações modernas e eficientes.
+Meu nome é Laercio de Andrade Santos Junior, tenho 18 anos. Atualmente, estou cursando Ciência da Computação na UNIFACS. Tenho conhecimentos em Python, Java e Programação Orientada a Objetos (POO) em geral, e atualmente estou ampliando meus conhecimentos com HTML. Busco sempre aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de aplicações modernas e eficientes.
 
 ---
 
